@@ -39,8 +39,9 @@ How can ChemCorp prevent the loss of future market share by:
 ---
 
 ## 📂 Repository Structure
-- `problem-statement/` – Business problem and strategic objectives  
-- `data/` – Dataset(s) used for analysis    
+- `problem-statement/` – Business problem and strategic objectives
+- case_study_summary 
+- `data/` – ChemCorp_Sales_Data_Jan15_Dec15.xlsx    
 - `reports/` – Final insights and dashboards  
 👉 [View Interactive Tableau Report](https://public.tableau.com/app/profile/prasanti.mishra/viz/TableauCaseStudy_PrasantiMishra/Story1?publish=yes)  
 
